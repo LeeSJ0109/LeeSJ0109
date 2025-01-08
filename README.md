@@ -1,3 +1,4 @@
+<div align="center">
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/LeeSJ0109"
@@ -5,6 +6,7 @@
   height="300"
 />
 </a>
+</div>
 
 <!--
 **LeeSJ0109/LeeSJ0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
