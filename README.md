@@ -1,11 +1,10 @@
 <div align="center">
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/LeeSJ0109"
-  width="600"
-  height="300"
-/>
-</a>
+  <a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/LeeSJ0109"
+    width="600"
+    height="300"
+  />
   <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/akacast01" width="600" height="300"/></a>
 </div>
 
